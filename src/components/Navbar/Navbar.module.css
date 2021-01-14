@@ -1,0 +1,32 @@
+.nav {
+    grid-area: n;
+    background-color: #C9C9BD;
+    padding: 20px;
+    border: 1px solid #697F90;
+}
+
+.item a.activeLink {
+    color: #849FAD;
+}
+
+.item a {
+    text-decoration: none;
+    color: #27647B;
+    font-size: x-large;
+}
+
+.item img {
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+}
+
+.profilePhoto img {
+    width: 45px;
+    height: 50px;
+    border-radius: 30px;
+    margin: 10px;
+}
+.profilePhoto a {
+    font-size: smaller;
+}

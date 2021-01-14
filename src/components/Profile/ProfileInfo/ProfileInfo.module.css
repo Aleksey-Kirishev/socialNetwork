@@ -1,0 +1,33 @@
+
+textarea {
+    margin-left: 5px;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+button {
+    margin: 5px;
+}
+
+.picture {
+    width: 200px;
+    height: 270px;
+}
+
+.nickname {
+    font-family: "Miama Nueva";
+    margin-left: 35px;
+}
+
+.description {
+    font-family: "MV Boli";
+    font-size: smaller;
+    margin-left: 57px;
+}
+
+.Myposts {
+    font-family: "MV Boli";
+    text-decoration: underline;
+}

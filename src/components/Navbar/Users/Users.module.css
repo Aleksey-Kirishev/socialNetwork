@@ -1,0 +1,13 @@
+.profilePhotoes{
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+}
+.status{
+    margin-left: 5px;
+    color: #697F90;
+    font-family: "MV Boli";
+    background-color: #C9C9BD;
+    border-radius: 5px;
+    margin-left: 5px;
+}

@@ -1,0 +1,16 @@
+* {
+    text-decoration: none;
+
+}
+
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    padding: 10px;
+    color: #849FAD;
+}
+a {
+   color: #27647B;
+}
+
+.sendMessage{}

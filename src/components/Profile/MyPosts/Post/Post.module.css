@@ -1,0 +1,30 @@
+.item {
+    color: #152329;
+}
+
+.item img {
+    width: 50px;
+    height: 50px;
+    border-radius: 17px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.forcomment {
+    color: #697F90;
+    font-family: "MV Boli";
+    background-color: #C9C9BD;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.perenos{
+    margin-top: 10px;
+}
+.forComment {
+    color: #152329;
+    font-family: "Miama Nueva";
+    background-color: #E3E3CD;
+    background-color: #E3E3CD;
+    margin-left: 5px;
+}
